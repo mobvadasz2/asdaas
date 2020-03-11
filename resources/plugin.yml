@@ -1,0 +1,11 @@
+main: com.mobvadasz2.stats.Main
+name: Stats
+version: 1.0
+author: mobvadasz2
+
+commands:
+  stats:
+    aliases:
+      - statisztika
+      - stat
+      - anyatok

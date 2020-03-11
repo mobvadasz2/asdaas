@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Stat.jar">
+    <output-path>$USER_HOME$/Desktop/DryTix 2019.01.29/plugins</output-path>
+    <root id="archive" name="Stat.jar">
+      <element id="module-output" name="Stat" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/DryTix 2019.01.29/spigot.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
