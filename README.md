@@ -1,5 +1,7 @@
 # Statisztika
 Ez egy plugin ami spigot 1.8-ra lett írva
+
+Szükséges permission: stats.*
 # Parancsok
 - /Stat
 - /Statisztika
