@@ -11,7 +11,7 @@ import org.bukkit.entity.Player;
 public class StatsCommand implements CommandExecutor {
 
     public boolean onCommand(CommandSender sender, Command command, String s, String[] args) {
-        if (sender.hasPermission("*"))
+        if (sender.hasPermission("stats.*"))
             if (sender instanceof Player) {
                 Player player = (Player) sender;
                 if (args.length == 0) {
