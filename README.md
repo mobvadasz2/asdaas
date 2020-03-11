@@ -1,5 +1,5 @@
 # Statisztika
-Ez egy plugin ami spigot 1.8-ra lett írva-
+Ez egy plugin ami spigot 1.8-ra lett írva
 # Parancsok
 - /Stat
 - /Statisztika
